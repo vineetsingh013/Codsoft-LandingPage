@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,400;10..48,500&display=swap');
+body{
+    margin: 0;
+    background-color:#ECF0F1;
+    color: #3b3261;
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+
+#logo{
+    height: 6vw;
+    width: 20vw;
+}
+
+.nav-links{
+    margin-left: auto; 
+    margin-right: 0;
+    height: 6vw;
+    padding-right: 25vw;
+    
+}
+
+.nav-item{
+    font-size: 26px;
+}
+
+.main2{
+    color: #3b3261;
+    margin: 10 0 0 0;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    float: left;
+    margin-bottom: 0;
+    padding: 0;
+    padding-left: 12vw;
+}
+
+.main-cre{
+    float: left;
+    width: 50%;
+}
+.supp{
+    height: 30vw;
+    width: 40vw;
+    margin-left: 2vw;
+    border-radius: 60px;
+}
+
+.main-con{
+    color: #615a80;
+    font-size: 20px;
+    text-align: justify;
+    padding: 20px;
+    padding-top: 64px;
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+
+.intern{
+    text-align: center;
+    margin-top: 3vw;
+    color: #3b3261;
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+
+.main-intern{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    color: #3b3261;
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+
+.intern11{
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.sam{
+    height: 10vw;
+    width: 15vw;
+    border-radius: 50%;
+}
+
+.intern111{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 35px;
+}
+
+.intern222{
+    text-align: justify;
+    padding: 1vw;
+}
+
+.button{
+    text-align: center;
+}
+
+.footer{
+    background-color: #D2D7D3;
+    margin-top: 3vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 3vw;
+    text-align: center;
+    font-size: 27px;
+    color: #3b3261;
+}
+
+.contactdet{
+    list-style: none;
+    font-size: 20px;
+}
+.adddet{
+    list-style: none;
+    font-size: 20px;
+    text-align: center;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+.con{
+    margin: 0.5vw;
+}
